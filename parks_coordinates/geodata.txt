@@ -1,0 +1,334 @@
+Park Name: Jalan Pelatok Open Space, Coordinates: 1°20'46"N, 103°57'39"E 
+Park Name: Turnhouse Park, Coordinates: 1°23'23"N, 103°58'44"E 
+Park Name: Coney Island Park, Coordinates: 1°24'35"N, 103°55'23"E 
+Park Name: Stratton Walk Playground, Coordinates: 1°22'45"N, 103°52'1"E 
+Park Name: Leban Park, Coordinates: 1°22'21"N, 103°49'44"E 
+Park Name: Kew Drive Playground, Coordinates: 1°19'14"N, 103°57'6"E 
+Park Name: Harvey Crescent Playground, Coordinates: 1°20'26"N, 103°57'18"E 
+Park Name: Poh Huat Road Playground, Coordinates: 1°22'0"N, 103°52'53"E 
+Park Name: Lentor Street Playground, Coordinates: 1°23'24"N, 103°50'3"E 
+Park Name: Lilac Drive Playground, Coordinates: 1°22'51"N, 103°51'40"E 
+Park Name: Mei Hwan Drive Playground, Coordinates: 1°21'12"N, 103°51'48"E 
+Park Name: Chuan Green Playground, Coordinates: 1°21'37"N, 103°51'57"E 
+Park Name: Begonia Road Playground, Coordinates: 1°23'16"N, 103°51'48"E 
+Park Name: Fudu Walk Playground, Coordinates: 1°23'23"N, 103°50'14"E 
+Park Name: Countryside Playground, Coordinates: 1°23'24"N, 103°50'18"E 
+Park Name: Jalan Pari Burong Playground, Coordinates: 1°20'1"N, 103°56'48"E 
+Park Name: St. Nicholas View Playground, Coordinates: 1°22'17"N, 103°49'58"E 
+Park Name: Waringin Park Playground, Coordinates: 1°19'22"N, 103°55'9"E 
+Park Name: Tai Keng Place Playground, Coordinates: 1°20'42"N, 103°53'5"E 
+Park Name: Parry Road Playground, Coordinates: 1°21'57"N, 103°52'39"E 
+Park Name: Garden View Playground, Coordinates: 1°21'37"N, 103°51'56"E 
+Park Name: Jalan Naung Playground, Coordinates: 1°22'10"N, 103°53'34"E 
+Park Name: Lentor Walk Playground, Coordinates: 1°23'19"N, 103°50'18"E 
+Park Name: Mariam Way Playground, Coordinates: 1°21'43"N, 103°57'58"E 
+Park Name: Mariam Walk Playground, Coordinates: 1°21'34"N, 103°58'6"E 
+Park Name: Thomson Green Playground, Coordinates: 1°22'43"N, 103°49'57"E 
+Park Name: Surin Avenue Neighbourhood Park, Coordinates: 1°21'20"N, 103°53'2"E 
+Park Name: Chiltern Drive Interim Park, Coordinates: 1°20'54"N, 103°51'43"E 
+Park Name: Kew Crescent Playground, Coordinates: 1°19'9"N, 103°56'54"E 
+Park Name: Lentor Green Playground, Coordinates: 1°23'7"N, 103°50'13"E 
+Park Name: Nim Crescent Open Space, Coordinates: 1°22'59"N, 103°52'0"E 
+Park Name: Colchester Grove Open Space, Coordinates: 1°21'27"N, 103°52'2"E 
+Park Name: Tavistock Avenue Park, Coordinates: 1°22'12"N, 103°51'55"E 
+Park Name: Elite Terrace Park, Coordinates: 1°18'56"N, 103°55'27"E 
+Park Name: Jalan Selaseh Playground, Coordinates: 1°23'8"N, 103°52'24"E 
+Park Name: Jalan Geneng Interim Park, Coordinates: 1°21'12"N, 103°52'51"E 
+Park Name: Kampong Glam Park, Coordinates: 1°18'8"N, 103°51'46"E 
+Park Name: Clover Way Playground, Coordinates: 1°21'0"N, 103°50'45"E 
+Park Name: Marine Parade Road Park, Coordinates: 1°18'17"N, 103°54'29"E 
+Park Name: Butterfly Avenue Playground, Coordinates: 1°20'3"N, 103°52'38"E 
+Park Name: Marymount Terrace Playground, Coordinates: 1°20'56"N, 103°50'25"E 
+Park Name: Carmichael Road Playground, Coordinates: 1°20'33"N, 103°51'47"E 
+Park Name: Greenridge Crescent Playground, Coordinates: 1°20'3"N, 103°45'56"E 
+Park Name: Fulton Avenue Playground, Coordinates: 1°21'43"N, 103°50'0"E 
+Park Name: Savoy Park Playground, Coordinates: 1°20'0"N, 103°46'11"E 
+Park Name: Eng Kong Place Fitness Corner, Coordinates: 1°20'5"N, 103°46'2"E 
+Park Name: Pandan Reservoir Fitness Corner, Coordinates: 1°19'3"N, 103°44'55"E 
+Park Name: Bukit Timah Nature Reserve, Coordinates: 1°21'11"N, 103°46'26"E 
+Park Name: Lakeside Grove Fitness Corner, Coordinates: 1°20'23"N, 103°43'1"E 
+Park Name: Westwood Park Playground, Coordinates: 1°21'6"N, 103°42'3"E 
+Park Name: Cashew Road Playground, Coordinates: 1°22'14"N, 103°45'52"E 
+Park Name: Chu Yen Playground, Coordinates: 1°21'31"N, 103°45'32"E 
+Park Name: Hillview Crescent Playground, Coordinates: 1°21'19"N, 103°45'39"E 
+Park Name: Sunset Way Playground, Coordinates: 1°19'36"N, 103°45'59"E 
+Park Name: Jurong Lake Gardens, Coordinates: 1°20'9"N, 103°43'52"E 
+Park Name: Along Central Exchange Green, Coordinates: 1°18'3"N, 103°47'26"E 
+Park Name: Taman Mas Merah Playground, Coordinates: 1°18'31"N, 103°45'53"E 
+Park Name: Cashew Link Playground, Coordinates: 1°22'16"N, 103°46'8"E 
+Park Name: Hindhede Nature Park, Coordinates: 1°21'0"N, 103°46'33"E 
+Park Name: Faber Hill Playground, Coordinates: 1°19'11"N, 103°45'28"E 
+Park Name: Burgundy Crescent Playground, Coordinates: 1°20'23"N, 103°45'39"E 
+Park Name: Lorong Kemunchup Playground, Coordinates: 1°21'37"N, 103°45'39"E 
+Park Name: Dairy Farm Nature Park, Coordinates: 1°21'45"N, 103°46'26"E 
+Park Name: Chestnut Drive Playground, Coordinates: 1°22'3"N, 103°46'7"E 
+Park Name: Sunset Way Park, Coordinates: 1°19'39"N, 103°45'53"E 
+Park Name: Pavilion Park Playground, Coordinates: 1°22'20"N, 103°45'7"E 
+Park Name: West Coast Green Playground, Coordinates: 1°18'56"N, 103°45'22"E 
+Park Name: Jalan Dermawan Playground, Coordinates: 1°21'38"N, 103°45'30"E 
+Park Name: Jurong Central Park, Coordinates: 1°20'16"N, 103°42'28"E 
+Park Name: Faber Height Open Space, Coordinates: 1°19'21"N, 103°45'27"E 
+Park Name: West Coast Place Playground, Coordinates: 1°18'51"N, 103°45'30"E 
+Park Name: Westville Playground, Coordinates: 1°21'15"N, 103°41'55"E 
+Park Name: Villa Verde Park, Coordinates: 1°23'22"N, 103°45'5"E 
+Park Name: Bukit Batok Nature Park, Coordinates: 1°20'51"N, 103°45'55"E 
+Park Name: Chestnut Close Playground, Coordinates: 1°22'9"N, 103°46'24"E 
+Park Name: Upper Seletar Reservoir Park, Coordinates: 1°23'59"N, 103°48'20"E 
+Park Name: Thong Soon Green Playground, Coordinates: 1°24'0"N, 103°49'6"E 
+Park Name: Springleaf Avenue Playground, Coordinates: 1°24'3"N, 103°49'20"E 
+Park Name: The Southern Ridges, Coordinates: 1°16'47"N, 103°48'17"E 
+Park Name: Tiong Bahru Park, Coordinates: 1°17'15"N, 103°49'26"E 
+Park Name: Clementi Woods Park, Coordinates: 1°17'56"N, 103°46'3"E 
+Park Name: Jalan Mas Puteh Playground, Coordinates: 1°18'32"N, 103°45'43"E 
+Park Name: West Coast Park, Coordinates: 1°17'46"N, 103°45'46"E 
+Park Name: Along Central Exchange Green, Coordinates: 1°17'58"N, 103°47'26"E 
+Park Name: Cashew Crescent Fitness Corner Playground, Coordinates: 1°22'20"N, 103°46'10"E 
+Park Name: Fuyong Interim Park, Coordinates: 1°21'26"N, 103°46'6"E 
+Park Name: Choa Chu Kang Park, Coordinates: 1°23'20"N, 103°44'54"E 
+Park Name: Hazel Park Open Space, Coordinates: 1°22'17"N, 103°45'49"E 
+Park Name: Jalan Mas Kuning Playground, Coordinates: 1°18'28"N, 103°45'48"E 
+Park Name: Sunset Heights Open Space, Coordinates: 1°19'40"N, 103°46'7"E 
+Park Name: Almond Crescent Playground, Coordinates: 1°22'23"N, 103°46'18"E 
+Park Name: Phoenix Heights Playground, Coordinates: 1°22'33"N, 103°45'26"E 
+Park Name: Lakeside Grove Playground, Coordinates: 1°20'24"N, 103°43'6"E 
+Park Name: Yunnan Park, Coordinates: 1°20'14"N, 103°41'34"E 
+Park Name: Bukit Batok Town Park, Coordinates: 1°21'26"N, 103°45'21"E 
+Park Name: Jalan Remaja Interim Park, Coordinates: 1°21'27"N, 103°45'38"E 
+Park Name: Parry Avenue Interim Park, Coordinates: 1°21'50"N, 103°52'52"E 
+Park Name: Mei Hwan Crescent Playground, Coordinates: 1°21'9"N, 103°51'42"E 
+Park Name: Pebble Garden, Coordinates: 1°27'2"N, 103°49'46"E 
+Park Name: Kranji Nature Trail, Coordinates: 1°26'39"N, 103°44'1"E 
+Park Name: Sembawang Park, Coordinates: 1°27'41"N, 103°50'12"E 
+Park Name: Sengkang Riverside Park, Coordinates: 1°23'58"N, 103°53'3"E 
+Park Name: Brooks Park, Coordinates: 1°24'20"N, 103°49'21"E 
+Park Name: Punggol Waterway Park, Coordinates: 1°24'39"N, 103°54'17"E 
+Park Name: Platina Road Playground, Coordinates: 1°25'39"N, 103°49'34"E 
+Park Name: Springleaf Nature Park, Coordinates: 1°24'4"N, 103°49'2"E 
+Park Name: Kranji Reservoir Park, Coordinates: 1°26'19"N, 103°44'24"E 
+Park Name: Kandis Garden, Coordinates: 1°27'22"N, 103°50'8"E 
+Park Name: Windsor Nature Park, Coordinates: 1°21'36"N, 103°49'37"E 
+Park Name: Punggol Park, Coordinates: 1°22'36"N, 103°53'55"E 
+Park Name: Lower Seletar Reservoir Park, Coordinates: 1°24'35"N, 103°49'55"E 
+Park Name: Springleaf Garden Playground, Coordinates: 1°23'52"N, 103°49'20"E 
+Park Name: Admiralty Park, Coordinates: 1°26'39"N, 103°46'55"E 
+Park Name: Yishun Pond Park, Coordinates: 1°25'39"N, 103°50'22"E 
+Park Name: Jalan Rasok Park, Coordinates: 1°24'59"N, 103°45'32"E 
+Park Name: Goodlink Park Playground, Coordinates: 1°25'38"N, 103°49'31"E 
+Park Name: Yishun Park, Coordinates: 1°25'27"N, 103°50'33"E 
+Park Name: Lower Peirce Reservoir Park, Coordinates: 1°22'8"N, 103°49'34"E 
+Park Name: Punggol Waterway, Coordinates: 1°24'8"N, 103°54'55"E 
+Park Name: Marsiling Park, Coordinates: 1°26'15"N, 103°46'11"E 
+Park Name: Pulau Ubin and Chek Jawa, Coordinates: 1°24'31"N, 103°57'55"E 
+Park Name: Kent Ridge Park, Coordinates: 1°17'3"N, 103°47'25"E 
+Park Name: Telok Blangah Hill Park, Coordinates: 1°16'43"N, 103°48'37"E 
+Park Name: HortPark, Coordinates: 1°16'43"N, 103°48'5"E 
+Park Name: Raffles Place Park, Coordinates: 1°17'3"N, 103°51'4"E 
+Park Name: Wilkinson Interim Park, Coordinates: 1°18'5"N, 103°53'14"E 
+Park Name: Bunga Rampai Park, Coordinates: 1°20'25"N, 103°53'3"E 
+Park Name: Handy Road Open Space, Coordinates: 1°17'56"N, 103°50'51"E 
+Park Name: Kitchener Green Playground, Coordinates: 1°18'26"N, 103°51'34"E 
+Park Name: Penang Road Open Space, Coordinates: 1°18'0"N, 103°50'28"E 
+Park Name: National Orchid Garden, Coordinates: 1°18'45"N, 103°48'50"E 
+Park Name: Eng Kong Garden Playground, Coordinates: 1°20'12"N, 103°46'8"E 
+Park Name: Sennett Avenue Open Space, Coordinates: 1°19'7"N, 103°56'21"E 
+Park Name: Interim Park At Lengkong Enam, Coordinates: 1°19'38"N, 103°54'53"E 
+Park Name: Pesari Walk Playground, Coordinates: 1°19'27"N, 103°57'14"E 
+Park Name: Changi Heights Playground, Coordinates: 1°21'46"N, 103°58'19"E 
+Park Name: Jalan Senang Playground, Coordinates: 1°19'44"N, 103°54'56"E 
+Park Name: Telok Kurau Park, Coordinates: 1°18'55"N, 103°54'51"E 
+Park Name: Sunrise Place Playground, Coordinates: 1°23'12"N, 103°51'23"E 
+Park Name: Seletar Terrace Playground, Coordinates: 1°22'53"N, 103°52'7"E 
+Park Name: Upper Peirce Reservoir Park, Coordinates: 1°22'28"N, 103°48'40"E 
+Park Name: Tai Hwan Terrace Playground, Coordinates: 1°21'22"N, 103°51'37"E 
+Park Name: Woodlands Town Park East, Coordinates: 1°26'11"N, 103°46'45"E 
+Park Name: Sungei Buloh Wetland Reserve, Coordinates: 1°26'24"N, 103°44'7"E 
+Park Name: Tamarind Road Playground, Coordinates: 1°23'22"N, 103°51'36"E 
+Park Name: Woodlands Waterfront Park, Coordinates: 1°27'9"N, 103°46'48"E 
+Park Name: Ellington Square Playground, Coordinates: 1°22'19"N, 103°50'4"E 
+Park Name: Thrift Drive Open Space, Coordinates: 1°20'37"N, 103°52'59"E 
+Park Name: Cactus Road Playground, Coordinates: 1°23'24"N, 103°51'8"E 
+Park Name: Serenade Walk Playground, Coordinates: 1°22'47"N, 103°50'4"E 
+Park Name: Gelenggang Park, Coordinates: 1°22'24"N, 103°49'47"E 
+Park Name: Park Villas Terrace Playground, Coordinates: 1°22'8"N, 103°52'48"E 
+Park Name: Jalan Kemuning Park, Coordinates: 1°26'21"N, 103°49'37"E 
+Park Name: Sunrise Terrace Open Space, Coordinates: 1°23'17"N, 103°51'22"E 
+Park Name: Sunrise Close Playground, Coordinates: 1°23'13"N, 103°51'27"E 
+Park Name: Thomson Walk Playground, Coordinates: 1°22'33"N, 103°49'56"E 
+Park Name: Mimosa Road Playground, Coordinates: 1°23'3"N, 103°51'46"E 
+Park Name: Chartwell Drive Park, Coordinates: 1°21'34"N, 103°51'49"E 
+Park Name: Springside Park, Coordinates: 1°24'20"N, 103°49'14"E 
+Park Name: Florissa Park Playground, Coordinates: 1°23'13"N, 103°50'6"E 
+Park Name: Kranji Marshes, Coordinates: 1°25'12"N, 103°43'11"E 
+Park Name: Janggus Garden, Coordinates: 1°27'27"N, 103°50'13"E 
+Park Name: Ann Siang Hill Park, Coordinates: 1°16'49"N, 103°50'46"E 
+Park Name: Duxton Plain Park, Coordinates: 1°16'52"N, 103°50'29"E 
+Park Name: Yishun Neighbourhood Park, Coordinates: 1°26'15"N, 103°50'6"E 
+Park Name: Tanah Puteh Park, Coordinates: 1°18'57"N, 103°55'53"E 
+Park Name: Jalan Pari Dedap Playground, Coordinates: 1°19'58"N, 103°56'37"E 
+Park Name: Jalan Limau Kasturi Playground, Coordinates: 1°19'26"N, 103°56'46"E 
+Park Name: Dew Garden, Coordinates: 1°23'57"N, 103°52'15"E 
+Park Name: Sunrise Way Playground, Coordinates: 1°23'15"N, 103°51'24"E 
+Park Name: Jalan Kelichap Playground, Coordinates: 1°20'48"N, 103°52'54"E 
+Park Name: Interim Park at Terang Bulan Avenue, Coordinates: 1°19'17"N, 103°55'17"E 
+Park Name: Sunbird Circle Playground, Coordinates: 1°20'20"N, 103°57'29"E 
+Park Name: Jalan Pelatok Playground, Coordinates: 1°20'45"N, 103°57'37"E 
+Park Name: Jalan Limau Kasturi Open Space, Coordinates: 1°19'27"N, 103°56'46"E 
+Park Name: Changi East Boardwalk, Coordinates: 1°23'30"N, 103°59'10"E 
+Park Name: East Coast Terrace Park, Coordinates: 1°18'39"N, 103°55'25"E 
+Park Name: Singapore Botanic Gardens, Coordinates: 1°18'39"N, 103°48'58"E 
+Park Name: Labrador Nature Reserve, Coordinates: 1°15'56"N, 103°48'11"E 
+Park Name: Sembawang Hot Spring Park, Coordinates: 1°26'3"N, 103°49'21"E 
+Park Name: Sennett Avenue Playground, Coordinates: 1°19'1"N, 103°56'10"E 
+Park Name: Lucky Gardens Playground, Coordinates: 1°19'9"N, 103°56'28"E 
+Park Name: Bedok Town Park, Coordinates: 1°20'3"N, 103°55'15"E 
+Park Name: Lentor Grove Playground, Coordinates: 1°23'10"N, 103°50'17"E 
+Park Name: Telok Kurau Lorong N Park, Coordinates: 1°18'37"N, 103°54'46"E 
+Park Name: Dedap Place Playground, Coordinates: 1°23'16"N, 103°52'6"E 
+Park Name: Chuan Walk Playground, Coordinates: 1°21'25"N, 103°52'3"E 
+Park Name: Bedok Reservoir Park, Coordinates: 1°20'20"N, 103°55'36"E 
+Park Name: Jalan Riang Playground, Coordinates: 1°20'49"N, 103°52'2"E 
+Park Name: Changi West Boardwalk, Coordinates: 1°23'24"N, 103°58'33"E 
+Park Name: Cheng Soon Garden Playground, Coordinates: 1°20'9"N, 103°46'18"E 
+Park Name: Jalan Tekukor Playground, Coordinates: 1°20'46"N, 103°46'0"E 
+Park Name: Namly Park, Coordinates: 1°19'23"N, 103°47'47"E 
+Park Name: Novena Rise Park, Coordinates: 1°19'29"N, 103°50'33"E 
+Park Name: Hooper Road Playground, Coordinates: 1°18'44"N, 103°50'35"E 
+Park Name: Chwee Chian Playground, Coordinates: 1°16'45"N, 103°47'20"E 
+Park Name: Esplanade Park, Coordinates: 1°17'21"N, 103°51'12"E 
+Park Name: Arthur Park, Coordinates: 1°18'12"N, 103°53'17"E 
+Park Name: Katong Park, Coordinates: 1°17'49"N, 103°53'10"E 
+Park Name: Meyer Road Playground, Coordinates: 1°17'54"N, 103°53'39"E 
+Park Name: Thomson Road Playground, Coordinates: 1°18'58"N, 103°50'37"E 
+Park Name: Jupiter Road Playground, Coordinates: 1°21'29"N, 103°49'30"E 
+Park Name: Gentle Drive Playground, Coordinates: 1°19'13"N, 103°50'26"E 
+Park Name: Goldhill Avenue Playground, Coordinates: 1°19'16"N, 103°49'59"E 
+Park Name: Pasir Panjang Park, Coordinates: 1°16'32"N, 103°47'31"E 
+Park Name: Telok Ayer Park, Coordinates: 1°16'41"N, 103°50'48"E 
+Park Name: Aljunied Park, Coordinates: 1°19'44"N, 103°52'47"E 
+Park Name: Jambol Place Park, Coordinates: 1°16'44"N, 103°47'24"E 
+Park Name: Haig Walk, Coordinates: 1°18'23"N, 103°54'2"E 
+Park Name: Jalan Pintau Playground, Coordinates: 1°21'14"N, 103°50'23"E 
+Park Name: Joo Chiat Terrace Interim Park, Coordinates: 1°18'51"N, 103°54'6"E 
+Park Name: Orchid Village Playground, Coordinates: 1°20'8"N, 103°48'6"E 
+Park Name: Clementi Crescent Playground, Coordinates: 1°19'23"N, 103°46'23"E 
+Park Name: Pemimpin Place Playground, Coordinates: 1°21'12"N, 103°50'33"E 
+Park Name: Soo Chow Walk Playground, Coordinates: 1°21'13"N, 103°49'55"E 
+Park Name: Highgate Walk Playground, Coordinates: 1°20'25"N, 103°45'57"E 
+Park Name: Island Gardens Walk Playground, Coordinates: 1°21'43"N, 103°49'42"E 
+Park Name: MacRitchie Reservoir Park, Coordinates: 1°20'29"N, 103°50'0"E 
+Park Name: Marina Promenade, Coordinates: 1°17'26"N, 103°51'52"E 
+Park Name: Ang Mo Kio Town Garden East, Coordinates: 1°22'14"N, 103°51'1"E 
+Park Name: Holland Grove View Fitness Corner, Coordinates: 1°18'44"N, 103°46'58"E 
+Park Name: Sixth Avenue Playground, Coordinates: 1°19'20"N, 103°47'28"E 
+Park Name: War Memorial Park, Coordinates: 1°17'34"N, 103°51'17"E 
+Park Name: Beng Wan Road Playground, Coordinates: 1°19'25"N, 103°51'57"E 
+Park Name: Henry Park, Coordinates: 1°18'58"N, 103°46'59"E 
+Park Name: Bounded by River Valley Road and Clemenceau Avenue, Coordinates: 1°17'35"N, 103°50'41"E 
+Park Name: Ang Mo Kio Town Garden West, Coordinates: 1°22'26"N, 103°50'34"E 
+Park Name: Mayfair Park, Coordinates: 1°20'29"N, 103°46'51"E 
+Park Name: Guillemard Road Open Space, Coordinates: 1°18'52"N, 103°53'32"E 
+Park Name: Thomson Park Estate Interim Park, Coordinates: 1°21'23"N, 103°50'2"E 
+Park Name: Bangsawan Park, Coordinates: 1°19'16"N, 103°55'25"E 
+Park Name: Eastwood Park Playground, Coordinates: 1°19'23"N, 103°57'27"E 
+Park Name: Watten Heights Playground, Coordinates: 1°19'54"N, 103°48'32"E 
+Park Name: Grove Lane Playground, Coordinates: 1°18'49"N, 103°47'3"E 
+Park Name: Carpmael Road Open Space, Coordinates: 1°18'41"N, 103°53'56"E 
+Park Name: Orchard Fountain Corner, Coordinates: 1°18'5"N, 103°50'15"E 
+Park Name: Holland Village Park, Coordinates: 1°18'42"N, 103°47'43"E 
+Park Name: Waterboat House Garden, Coordinates: 1°17'14"N, 103°51'12"E 
+Park Name: Rowell Road Open Space, Coordinates: 1°18'30"N, 103°51'17"E 
+Park Name: Youth Olympic Park, Coordinates: 1°17'18"N, 103°51'38"E 
+Park Name: Greenwood Crescent Playground, Coordinates: 1°20'7"N, 103°48'19"E 
+Park Name: Berlayer Creek, Coordinates: 1°16'20"N, 103°48'9"E 
+Park Name: Kim Pong Park, Coordinates: 1°17'1"N, 103°49'47"E 
+Park Name: Novena Park, Coordinates: 1°19'20"N, 103°50'34"E 
+Park Name: Golden Rise Playground, Coordinates: 1°20'10"N, 103°45'53"E 
+Park Name: Lembu Road Open Space, Coordinates: 1°18'35"N, 103°51'17"E 
+Park Name: Hoover Park, Coordinates: 1°20'37"N, 103°46'22"E 
+Park Name: Tanjong Katong Road South Playground, Coordinates: 1°18'0"N, 103°53'50"E 
+Park Name: Jalan Kebaya Playground, Coordinates: 1°18'50"N, 103°46'48"E 
+Park Name: Shelford Road Playground, Coordinates: 1°19'42"N, 103°48'37"E 
+Park Name: Malcolm Park, Coordinates: 1°19'22"N, 103°49'37"E 
+Park Name: The Foothills Fort Canning Park, Coordinates: 1°17'32"N, 103°50'44"E 
+Park Name: MacPherson Linear Park, Coordinates: 1°20'1"N, 103°52'54"E 
+Park Name: Ganges Avenue Open Space, Coordinates: 1°17'26"N, 103°49'54"E 
+Park Name: Chempaka Avenue Playground, Coordinates: 1°19'54"N, 103°52'32"E 
+Park Name: Geylang East Park, Coordinates: 1°19'18"N, 103°53'15"E 
+Park Name: Fort Canning Park, Coordinates: 1°17'30"N, 103°50'47"E 
+Park Name: Changi Beach Park, Coordinates: 1°23'0"N, 104°0'603003141360"E 
+Park Name: Jalan Chempaka Kuning Playground, Coordinates: 1°19'47"N, 103°57'0"E 
+Park Name: Saraca Road Playground, Coordinates: 1°23'9"N, 103°51'31"E 
+Park Name: Mimosa Walk Playground, Coordinates: 1°22'59"N, 103°51'41"E 
+Park Name: Mera Terrace Playground, Coordinates: 1°20'50"N, 103°57'48"E 
+Park Name: Jalan Angin Laut Playground, Coordinates: 1°20'13"N, 103°57'22"E 
+Park Name: Located along Sunrise Drive, Coordinates: 1°23'25"N, 103°51'18"E 
+Park Name: Lentor Road Playground, Coordinates: 1°23'17"N, 103°50'15"E 
+Park Name: Pasir Ris Park, Coordinates: 1°22'43"N, 103°57'7"E 
+Park Name: Loyang View Playground, Coordinates: 1°21'46"N, 103°57'56"E 
+Park Name: Jalan Buloh Perindu Playground, Coordinates: 1°18'30"N, 103°55'9"E 
+Park Name: Tanah Merah Playground, Coordinates: 1°19'44"N, 103°56'48"E 
+Park Name: Luxus Hills Park, Coordinates: 1°22'46"N, 103°52'30"E 
+Park Name: Banyan Villas Playground, Coordinates: 1°23'14"N, 103°50'19"E 
+Park Name: Taman Kembangan Playground, Coordinates: 1°19'30"N, 103°54'51"E 
+Park Name: Jalan Limau Manis Playground, Coordinates: 1°19'29"N, 103°56'56"E 
+Park Name: Richards Avenue Park, Coordinates: 1°21'39"N, 103°52'55"E 
+Park Name: Lorong Tanggam Park, Coordinates: 1°23'56"N, 103°52'25"E 
+Park Name: Bougainvillea Park, Coordinates: 1°19'36"N, 103°48'27"E 
+Park Name: Holland Green Playground, Coordinates: 1°19'36"N, 103°46'58"E 
+Park Name: North Bridge Garden, Coordinates: 1°18'14"N, 103°51'43"E 
+Park Name: Istana Park, Coordinates: 1°17'57"N, 103°50'37"E 
+Park Name: Toa Payoh Town Park, Coordinates: 1°19'50"N, 103°50'52"E 
+Park Name: Kim Seng Park, Coordinates: 1°17'34"N, 103°50'5"E 
+Park Name: Mount Sinai Plain Playground, Coordinates: 1°18'56"N, 103°46'52"E 
+Park Name: Thomson Park, Coordinates: 1°21'15"N, 103°50'3"E 
+Park Name: Holland Grove View Playground, Coordinates: 1°18'46"N, 103°46'52"E 
+Park Name: Dhoby Ghaut Green, Coordinates: 1°17'54"N, 103°50'45"E 
+Park Name: Mount Emily Park, Coordinates: 1°18'16"N, 103°50'50"E 
+Park Name: Kallang Riverside Park, Coordinates: 1°18'20"N, 103°52'1"E 
+Park Name: Empress Place, Coordinates: 1°17'12"N, 103°51'7"E 
+Park Name: Mount Faber Park, Coordinates: 1°16'31"N, 103°49'5"E 
+Park Name: East Coast Park, Coordinates: 1°18'11"N, 103°55'14"E 
+Park Name: Limau Garden Playground, Coordinates: 1°19'20"N, 103°57'2"E 
+Park Name: Meragi Road Playground, Coordinates: 1°20'39"N, 103°57'37"E 
+Park Name: Realty Park Playground, Coordinates: 1°22'2"N, 103°53'23"E 
+Park Name: Pasir Ris Town Park, Coordinates: 1°22'18"N, 103°57'8"E 
+Park Name: Bedok Ria Crescent Playground, Coordinates: 1°19'38"N, 103°57'11"E 
+Park Name: Coronation Park Playground, Coordinates: 1°19'19"N, 103°47'47"E 
+Park Name: The Inglewood Playground, Coordinates: 1°21'39"N, 103°49'48"E 
+Park Name: Duchess Park, Coordinates: 1°19'27"N, 103°48'19"E 
+Park Name: Clover Crescent Playground, Coordinates: 1°21'3"N, 103°50'40"E 
+Park Name: Binchang Rise Playground, Coordinates: 1°20'55"N, 103°50'36"E 
+Park Name: Taman Permata Park, Coordinates: 1°21'0"N, 103°50'6"E 
+Park Name: Hua Guan Crescent Playground, Coordinates: 1°20'13"N, 103°47'6"E 
+Park Name: Central Catchment Nature Reserve, Coordinates: 1°22'38"N, 103°48'19"E 
+Park Name: Siang Kuang Avenue Interim Park, Coordinates: 1°19'46"N, 103°52'22"E 
+Park Name: Somme Road Playground, Coordinates: 1°18'41"N, 103°51'29"E 
+Park Name: Stamford Green, Coordinates: 1°17'44"N, 103°50'55"E 
+Park Name: University Road Park, Coordinates: 1°19'31"N, 103°49'3"E 
+Park Name: Greenleaf View Park Playground, Coordinates: 1°19'20"N, 103°47'17"E 
+Park Name: Chestnut Nature Park, Coordinates: 1°22'15"N, 103°46'51"E 
+Park Name: Telok Ayer Green, Coordinates: 1°16'53"N, 103°50'51"E 
+Park Name: Mayflower Crescent Playground, Coordinates: 1°22'21"N, 103°50'22"E 
+Park Name: Located along Sunrise Drive, Coordinates: 1°23'17"N, 103°51'26"E 
+Park Name: Elias Terrace Playground, Coordinates: 1°22'19"N, 103°56'27"E 
+Park Name: Kew Avenue Playground, Coordinates: 1°19'17"N, 103°56'54"E 
+Park Name: Greenfield Drive Playground, Coordinates: 1°18'46"N, 103°55'3"E 
+Park Name: Sun Plaza Park, Coordinates: 1°21'33"N, 103°56'40"E 
+Park Name: Changi Point Ferry Terminal, Coordinates: 1°23'28"N, 103°59'14"E 
+Park Name: Opera Estate Football Field, Coordinates: 1°19'12"N, 103°55'28"E 
+Park Name: Lentor Vale Playground, Coordinates: 1°23'16"N, 103°50'10"E 
+Park Name: Limau Villas Playground, Coordinates: 1°19'25"N, 103°57'1"E 
+Park Name: Paya Lebar Crescent Open Space, Coordinates: 1°20'56"N, 103°53'0"E 
+Park Name: Mugliston Park Playground, Coordinates: 1°23'7"N, 103°52'40"E 
+Park Name: Sungei Api Api Park, Coordinates: 1°22'43"N, 103°56'44"E 
+Park Name: Yio Chu Kang Gardens Playground, Coordinates: 1°22'50"N, 103°50'14"E 
+Park Name: Tampines Eco Green, Coordinates: 1°21'50"N, 103°56'55"E 
+Park Name: Mimosa Terrace Playground, Coordinates: 1°23'2"N, 103°51'37"E 
+Park Name: Neram Crescent Playground, Coordinates: 1°23'8"N, 103°51'56"E 
+Park Name: Changi Point Waterfront Park, Coordinates: 1°23'26"N, 103°59'17"E 
+Park Name: Aida Park, Coordinates: 1°19'9"N, 103°55'40"E 
+Park Name: Tai Keng Gardens Playground, Coordinates: 1°20'45"N, 103°53'5"E 
+Park Name: Realty Park, Coordinates: 1°22'4"N, 103°53'25"E 
+Park Name: Changi Point Promenade, Coordinates: 1°23'24"N, 103°59'21"E 
+Park Name: Aroozoo Avenue Playground, Coordinates: 1°21'18"N, 103°53'9"E 
+Park Name: Bedok Terrace Playground, Coordinates: 1°19'31"N, 103°56'50"E 
